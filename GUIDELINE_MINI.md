@@ -22,6 +22,6 @@
 
 | Ảnh | Tình huống | Quyết định cuối | Lý do theo schema |
 | --- | --- | --- | --- |
-| `drive_...` | | | |
-| `drive_...` | | | |
-| `drive_...` | | | |
+| `drive_002` |Nhiều xe ở xa khin khít nhau không thể tự tin nhận dạng 100% |Không label |Vật thể rất nhỏ/mơ hồ |
+| `drive_006` |Nhiều xe di chuyển từ nhiều hướng và dính sát vào nhau không thể nhận dạng 100% |Không label |Vật thể rất nhỏ/mơ hồ |
+| `drive_039` |Điều kiện ban đêm và ngược sáng không thể nhận diện chính xác 100% |Không label |Vật rất nhỏ/mơ hồ |
